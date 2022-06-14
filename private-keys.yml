@@ -1,0 +1,5 @@
+keys:
+  - path: test-keys/private1.key
+    passphrase: "Yungh%614Aeqt^%"
+  - path: test-keys/private1.key
+    passphrase: "M^^^Aer**12<>"
